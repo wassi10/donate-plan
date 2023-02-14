@@ -1,6 +1,6 @@
 *{
-    margin: 0';
-    font-family 'Open Sans', sans-serif;
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -41,6 +41,7 @@ header{
     font-size: 65px;
     color: #FFFFFF;
     padding-top: 110px;
+    padding-bottom: 20px;
     
 }
 .banner-des{
@@ -49,7 +50,7 @@ header{
     color: #FFFFFF;
     font-weight: 400;
     font-size: 18px;
-    padding-bottom: 10px;
+    padding-bottom: 30px;
 }
 
 .sec-title{
@@ -58,6 +59,7 @@ header{
     text-align: center;
     font-weight: 700;
     font-size: 45px;
+    padding-bottom: 40px;
     
 }
 .sec-des{
@@ -86,13 +88,16 @@ header{
     font-size: 30px;
     color: rgb(101, 93, 93);
     text-align: center;
-    padding: 20px 30px;
+    padding: 0;
 
 }
 
 .donate-title{
     background: #FAFAFA;
     border-radius: 5px;
+    padding: 35px 20px;
+    text-align: center;
+    
   
 }
 
@@ -100,24 +105,27 @@ header{
     background: #FFEEEE;
     border-radius: 5px;
     border: 2px solid #FF5959;
+    padding: 0;
 }
 .donate-title-red .info-title-red{
     font-weight: 700;
     font-size: 30px;
     color: #FF5959;
     text-align: center;
-    padding: 20px 30px;
+    padding: 30px 20px;
    
 }
 
+
 .other-amount{
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 .taka{
     font-weight: 400;
     font-size: 18px;
     color: #B3B3B3;
+    padding-bottom: 10px;
 }
 /* donate plane */
 .donate-plan{
