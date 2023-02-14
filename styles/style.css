@@ -1,0 +1,138 @@
+*{
+    margin: 0';
+    font-family 'Open Sans', sans-serif;
+
+}
+
+.btn-primary{
+    
+   font-weight: 600;
+   font-size: 20px;
+   width: 160px;
+   height: 56px;
+   border: 0;
+   border-radius: 5px;
+   color: #FFFFFF;
+   background: #FF5959;
+   margin-bottom: 100px;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+header{
+  
+    background: linear-gradient(360deg, #121212 0%, rgba(18, 18, 18, 0) 100%);
+    background-image: url(../images/donation13.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   /* //position: absolute; */
+}
+/* banner set */
+
+.banner-title{
+    
+    text-align: center;
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+    padding-top: 110px;
+    
+}
+.banner-des{
+
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 10px;
+}
+
+.sec-title{
+
+    padding-top: 100px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 45px;
+    
+}
+.sec-des{
+    text-align: center;
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 50px;
+}
+
+/* donate today */
+.donate-today{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.donate-today-info{
+    display: flex;
+    gap: 20px;
+   text-align: center;
+   justify-content: center;
+   padding-bottom: 60px;
+  
+}
+
+.info-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: rgb(101, 93, 93);
+    text-align: center;
+    padding: 20px 30px;
+
+}
+
+.donate-title{
+    background: #FAFAFA;
+    border-radius: 5px;
+  
+}
+
+.donate-title-red{
+    background: #FFEEEE;
+    border-radius: 5px;
+    border: 2px solid #FF5959;
+}
+.donate-title-red .info-title-red{
+    font-weight: 700;
+    font-size: 30px;
+    color: #FF5959;
+    text-align: center;
+    padding: 20px 30px;
+   
+}
+
+.other-amount{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.taka{
+    font-weight: 400;
+    font-size: 18px;
+    color: #B3B3B3;
+}
+/* donate plane */
+.donate-plan{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.food{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    justify-content: center;
+
+}
+.food-fam-title{
+    font-weight: 600;
+    font-size: 24px;
+}
