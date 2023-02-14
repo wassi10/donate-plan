@@ -178,3 +178,53 @@ header{
     color: #707070;
     padding-bottom: 0;
 }
+
+/* their lives */
+
+.donation{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 150px;
+  
+}
+.donation-plan{
+    display: flex;
+    gap: 60px;
+}
+
+.their-live{
+    padding-top: 50px;
+}
+.their-live-title{
+
+    font-weight: 700;
+    font-size: 45px;
+    padding-bottom: 30px;
+}
+.their-live-des{
+
+font-weight: 400;
+font-size: 18px;
+color: #707070;
+padding-bottom: 30px;
+}
+.contribute{
+font-weight: 600;
+font-size: 20px;
+justify-content: center;
+align-items: center;
+padding: 16px 12px;
+color: #FFEEEE;
+width: 230px;
+height: 56px;
+background: #FF5959;
+border-radius: 5px;
+border: 0;
+
+}
+/* their survive */
+.survive{
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 150px;
+}
